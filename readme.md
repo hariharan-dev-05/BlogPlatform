@@ -12,7 +12,7 @@ A simple blogging webapp built using NodeJS, ExpressJS and MongoDb. Authenticate
 
 ## Checkout Hosted WebApp here
 
-[Click here ✌](https://blog-app-jatin.herokuapp.com/)
+[Click here ✌](https://blogplatform-j3lq.onrender.com/)
 
 ## Routes
 
